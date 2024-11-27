@@ -4,3 +4,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <h2>Praticando conceitos do node, como bibliotecas naticas, importação CommonJS e module exports, callback, Promise, async await e event loop</h2>
+
+##
+
+<p>Neste projeto é possóvel criar arquivos, listar, ler, alterar e deletar, dentro da pasta do projeto já configurada no código</p>
