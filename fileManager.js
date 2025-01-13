@@ -1,6 +1,5 @@
 //tipo de importação CommonJS
-const fs = require('fs') // file system
-const path = require('path')
+import fs from 'fs' // file system
 
 function createDirectory(dirPath){
     return new Promise((resolve, reject) => { //função de callback
@@ -74,7 +73,7 @@ function deleteFiles(filePath){
     })
 }
 
-module.exports = {
+export default {
     createDirectory,
     createFile,
     listFiles,
